@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Afifa Faija! 👋
 
-<!--
-**afija0022-655/afija0022-655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student interested in web development and software engineering.
 
-Here are some ideas to get you started:
+## Featured Project: TripMesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**TripMesh — Tourist-as-a-Service Platform**
+
+A web-based tourism marketplace connecting travelers with local guides and businesses.
+
+### My Contributions
+- Team contributor and developer
+- 21 commits in the original project
+- Participated in collaborative development using Git and GitHub
+
+**Project Repository:** https://github.com/fahmida47/TripMesh
+
+**My Commits:** https://github.com/fahmida47/TripMesh/commits?author=afija0022-655
+
+**Contributors:** https://github.com/fahmida47/TripMesh/graphs/contributors
